@@ -1,0 +1,20 @@
+/node_modules
+/public/build
+/public/hot
+<<<<<<< HEAD
+/public/storage
+/storage/*.key
+/vendor
+.env
+=======
+/vendor
+>>>>>>> 813256cb8767aeb98251c6b541eb013027db9e20
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
